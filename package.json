@@ -1,0 +1,19 @@
+{
+  "name": "manga-character-quiz",
+  "version": "1.0.0",
+  "description": "Manga quiz based on a given MyAnimeList manga list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaiminRO/manga-character-quiz.git"
+  },
+  "author": "caiminro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaiminRO/manga-character-quiz/issues"
+  },
+  "homepage": "https://github.com/CaiminRO/manga-character-quiz#readme"
+}
